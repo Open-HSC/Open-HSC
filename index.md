@@ -13,7 +13,7 @@ Welcome! This site contains free problem sets (solutions and explainers coming s
 
 If you found the content on this website useful, feel free to [donate/buy me a coffee](https://buymeacoffee.com/jishnuttutk).
 
-I also offer private tutoring in Maths, Physics and Chemistry. Please feel free to reach out if interested. 
+I also offer private tutoring in Maths, Physics and Chemistry. Please feel free to reach out if interested at jishnu.t.tutoring@gmail.com. 
 
 Feedback on the website/worksheets is greatly appreciated. Send me an email at jishnu.t.tutoring@gmail.com.
 
