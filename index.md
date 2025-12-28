@@ -11,7 +11,7 @@ Welcome! This site contains free problem sets (solutions and explainers coming s
 - [Mathematics Extension 2](https://open-hsc.github.io/Open-HSC/ext2)
 - More subjects coming soon!
 
-If you found the content on this website useful, feel free to [buy me a coffee](*link*) (donate).
+If you found the content on this website useful, feel free to [donate/buy me a coffee](https://buymeacoffee.com/jishnuttutk).
 
 I also offer private tutoring in Maths, Physics and Chemistry. Please feel free to reach out if interested. 
 
