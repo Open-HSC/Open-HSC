@@ -12,8 +12,8 @@ Welcome! Maths Extension 2 is broken down into the following topics
 
 <details> 
   <summary>Vectors</summary>
-  - <a href="pdfs/ext2/vectors/vector-lines.pdf">Vector equations of lines and curves</a> <br>
-  - [Vectors and Geometry](#)
+  - <a href="pdfs/ext2/vectors/vectors-lines.pdf">Vector equations of lines and curves</a> <br>
+  - <a href="pdfs/ext2/vectors/vectors-geometry.pdf">Vectors and Geometry</a> <br>
 </details>
 
 <details> 
@@ -27,12 +27,9 @@ Welcome! Maths Extension 2 is broken down into the following topics
 
 <details> 
   <summary>Calculus</summary>
-  - [Harder U-substitution](#)
-  - [Partial Fractions](#)
-  - [Completing the square](#)
-  - [Trig Products](#)
-  - [Trig Integrals](#)
-  - [Integration by parts and Reduction formulas](#)
+  - <a href="pdfs/ext2/int/int-trig-usub.pdf">Harder U-substitution and Trigonometric Integration</a> <br>
+  - <a href="pdfs/ext2/int/int-part-frac.pdf">Harder Partial Fraction Integration</a> <br>
+  - <a href="pdfs/ext2/int/int-by-parts.pdf">Integration by Parts and Recurrence Relations</a> <br>
 </details>
 
 <details> 
