@@ -13,7 +13,7 @@ Welcome! Maths Extension 2 is broken down into the following topics
 <details> 
   <summary>Vectors</summary>
   - <a href="pdfs/ext2/vectors/vectors-lines.pdf">Vector equations of lines and curves</a> <br>
-  - <a href="pdfs/ext2/vectors/vectors-geometry.pdf">Vectors and Geometry</a> <br>
+  - <a href="pdfs/ext2/vectors/vectors-geometry2.pdf">Vectors and Geometry</a> <br>
 </details>
 
 <details> 
