@@ -18,11 +18,11 @@ Welcome! Maths Extension 2 is broken down into the following topics
 
 <details> 
   <summary>Complex Numbers</summary>
-  - [Arithmetic of complex numbers](#)
-  - [Geometric representation of complex numbers](#)
-  - [Solving equations with complex numbers](#)
-  - [Powers and roots of complex numbers](#)
-  - [Describing lines, curves and regions](#)
+  - [Arithmetic of complex numbers](#)<br>
+  - [Geometric representation of complex numbers](#)<br>
+  - [Solving equations with complex numbers](#)<br>
+  - [Powers and roots of complex numbers](#)<br>
+  - [Describing lines, curves and regions](#)<br>
 </details>
 
 <details> 
@@ -34,12 +34,10 @@ Welcome! Maths Extension 2 is broken down into the following topics
 
 <details> 
   <summary>Mechanics</summary>
-  - [Forces and further motion in a straight line](#)
-  - [Simple Harmonic Motion](#)
-  - [Modelling motion without resistance](#)
-  - [Recilinear resisted motion](#)
-  - [Vertical resisted motion](#)
-  - [Projectiles and resisted motion](#)
+  - [Forces and motion without resistance](#)<br>
+  - [Simple Harmonic Motion](#)<br>
+  - [Recilinear/Horizontal resisted motion](#)<br>
+  - [Vertical and Projectile resisted motion](#)<br>
 </details>
 
 Note: The 2017 and 2024 syllabus is mostly the same so the content created would be applicable for everyone. 
