@@ -46,4 +46,4 @@ As such, problems specific to the 2017 syllabus will be completed at a later sta
 
 While the worksheets were created based on individual Syllabus Topics, I have fitted some pairs of topics into one worksheet due to similar or highly related content.
 
-Syllabus mappings to worksheets can be found here.
+Syllabus mappings to worksheets can be found [here](https://open-hsc.github.io/Open-HSC/ext2-syl-map)
