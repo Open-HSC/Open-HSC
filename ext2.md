@@ -18,10 +18,10 @@ Welcome! Maths Extension 2 is broken down into the following topics. Click the a
 
 <details> 
   <summary>Complex Numbers</summary>
-  <a href="pdfs/ext2/complex/complex-arithmetic.pdf">Arithmetic of Complex Numbers and Solving Equations with Complex Numbers </a> <br>
-  <a href="pdfs/ext2/complex/geometric-complex.pdf">Geometric Representation of Complex Numbers</a> <br>
-  <a href="pdfs/ext2/complex/powers-roots-complex.pdf">Powers and Roots of Complex Numbers</a> <br>
-  <a href="pdfs/ext2/complex/complex-lines-curves-regions.pdf">Describing Lines, Curves and Regions</a> <br>
+  - <a href="pdfs/ext2/complex/complex-arithmetic.pdf">Arithmetic of Complex Numbers and Solving Equations with Complex Numbers </a> <br>
+  - <a href="pdfs/ext2/complex/geometric-complex.pdf">Geometric Representation of Complex Numbers</a> <br>
+  - <a href="pdfs/ext2/complex/powers-roots-complex.pdf">Powers and Roots of Complex Numbers</a> <br>
+  - <a href="pdfs/ext2/complex/complex-lines-curves-regions.pdf">Describing Lines, Curves and Regions</a> <br>
 </details>
 
 <details> 
