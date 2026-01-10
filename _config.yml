@@ -1,3 +1,6 @@
 title: Open HSC
 description: Problem sets, solutions, and explainers for HSC students
 theme: jekyll-theme-minimal
+
+exclude:
+  - sitemap.xml
