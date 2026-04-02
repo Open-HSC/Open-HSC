@@ -3,6 +3,7 @@ title: Extension 1 Mathematics Syllabus Mapping
 ---
 
 The table below shows the mappings between Syllabus Topics and Worksheets created.
+
 | Topic Number | Topic Name | Worksheet Title |
 | ---------- | ----------- | -------------- |
 | 1.1 | Proof by mathematical induction | Proof by Mathematical Induction |
