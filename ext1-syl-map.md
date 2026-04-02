@@ -4,7 +4,7 @@ title: Extension 1 Mathematics Syllabus Mapping
 
 The table below shows the mappings between Syllabus Topics and Worksheets created.
 | ID | Topic Name | Worksheet Title |
-| :--- | :--- | :--- |
+| --- | --- | --- |
 | 1.1 | Proof by mathematical induction | Proof by Mathematical Induction |
 | 2.1 | Vector representation and notation | Introduction and Basic operations with vectors |
 | 2.2 | Introduction to 2D and 3D vectors | Introduction and Basic operations with vectors |
