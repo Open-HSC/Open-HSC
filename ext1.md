@@ -6,7 +6,7 @@ Welcome! Maths Extension 1 is broken down into the following topics. Click the a
 
 <details> 
   <summary>Proof</summary>
-  - <a href="pdfs/ext1/induction.pdf"> </a> Proof by Mathematical Induction <br>
+  - <a href="pdfs/ext1/induction.pdf">Proof by Mathematical Induction </a>  <br>
 </details>
 
 <details> 
