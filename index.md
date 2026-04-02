@@ -7,7 +7,7 @@ title: Home
 Welcome! This site contains free problem sets (solutions and explainers coming soon) for
 
 ## Subjects
-
+- [Mathematics Extension 1](https://open-hsc.github.io/Open-HSC/ext1)
 - [Mathematics Extension 2](https://open-hsc.github.io/Open-HSC/ext2)
 - More subjects coming soon!
 
