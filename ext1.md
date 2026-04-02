@@ -6,39 +6,39 @@ Welcome! Maths Extension 1 is broken down into the following topics. Click the a
 
 <details> 
   <summary>Proof</summary>
-  - <a href="pdfs/ext1/induction.pdf"></a> Proof by Mathematical Induction <br>
+  - <a href="pdfs/ext1/induction.pdf"> </a> Proof by Mathematical Induction <br>
 </details>
 
 <details> 
   <summary>Vectors</summary>
-  - <a href="pdfs/ext1/vector_intro.pdf"></a> Introduction and Basic operations with vectors <br>
-  - <a href="pdfs/ext1/vector_f_ops.pdf"></a> Further operations with vectors <br>
-  - <a href="pdfs/ext1/vector_motion.pdf"></a> Motion in vector form in two dimensions <br>
-  - <a href="pdfs/ext1/vector_proj_motion.pdf"></a> Projectile Motion <br>
+  - <a href="pdfs/ext1/vector_intro.pdf">Introduction and Basic operations with vectors </a>  <br>
+  - <a href="pdfs/ext1/vector_f_ops.pdf">Further operations with vectors </a>  <br>
+  - <a href="pdfs/ext1/vector_motion.pdf">Motion in vector form in two dimensions </a>  <br>
+  - <a href="pdfs/ext1/vector_proj_motion.pdf">Projectile Motion </a>  <br>
 
 </details>
 
 <details> 
   <summary>Trigonometric Functions (Inverse Trigonometry) </summary>
-  - <a href="pdfs/ext1/inv_trig.pdf"></a> Inverse Trigonometry <br>
+  - <a href="pdfs/ext1/inv_trig.pdf">Inverse Trigonometry </a>  <br>
   
 </details>
 
 <details> 
   <summary>Calculus</summary>
-  - <a href="pdfs/ext1/differentiation.pdf"></a> Further derivatives of functions <br>
-  - <a href="pdfs/ext1/integration.pdf"></a> Techniques of integration <br>
-  - <a href="pdfs/ext1/multiplicity.pdf"></a> Multiplicity of zeroes of polynomials <br>
-  - <a href="pdfs/ext1/diff_eqns_slope_general.pdf"></a> Differential Equations: Slope fields and Solving Differential Equations <br>
-  - <a href="pdfs/ext1/diff_eqns_exp_logistic.pdf"></a> Differential Equations: Exponential & Logistic Growth <br>
-  - <a href="pdfs/ext1/areas_volumes.pdf"></a> Areas and Volumes <br> 
-  - <a href="pdfs/ext1/related_rates.pdf"></a> Related Rates <br> 
+  - <a href="pdfs/ext1/differentiation.pdf">Further derivatives of functions </a>  <br>
+  - <a href="pdfs/ext1/integration.pdf">Techniques of integration </a>  <br>
+  - <a href="pdfs/ext1/multiplicity.pdf">Multiplicity of zeroes of polynomials </a>  <br>
+  - <a href="pdfs/ext1/diff_eqns_slope_general.pdf">Differential Equations: Slope fields and Solving Differential Equations </a>  <br>
+  - <a href="pdfs/ext1/diff_eqns_exp_logistic.pdf">Differential Equations: Exponential & Logistic Growth </a>  <br>
+  - <a href="pdfs/ext1/areas_volumes.pdf">Areas and Volumes </a>  <br> 
+  - <a href="pdfs/ext1/related_rates.pdf">Related Rates </a>  <br> 
 </details>
 
 <details> 
   <summary>Statistical Analysis</summary>
-  - <a href="pdfs/ext1/bernoulli_binomial.pdf"></a> Bernoulli and Binomial Distributions <br>
-  - <a href="pdfs/ext1/sample_prop.pdf"></a> Sample Proportions and Normal Approximations <br>
+  - <a href="pdfs/ext1/bernoulli_binomial.pdf">Bernoulli and Binomial Distributions </a>  <br>
+  - <a href="pdfs/ext1/sample_prop.pdf">Sample Proportions and Normal Approximations </a>  <br>
 </details>
 
 Note: The 2017 and 2024 syllabus is mostly the same so the content created would be applicable for everyone.
