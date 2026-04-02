@@ -1,6 +1,5 @@
-
 ---
-title: Mathematics
+title: Mathematics Extension 1
 ---
 Welcome! Maths Extension 1 is broken down into the following topics. Click the arrows to access problem sets in each topic.
 
