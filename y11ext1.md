@@ -40,6 +40,7 @@ Key differences lie in the arrangement of topics between Year 11 and 12.
 In the Year 11 Mathematics Extension 1 2024 Syllabus, 
  - t-formula is removed, and moved to Mathematics Extension 2
  - Inverse Trigonometry content is moved to Year 12, and regular Trigonometry is moved to Year 11.
+<br>
 As such, problems specific to the 2017 syllabus will be completed at a later stage if requested. 
 
 
