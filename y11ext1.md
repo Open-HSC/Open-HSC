@@ -31,7 +31,10 @@ Welcome! Maths Extension 1 for Year 11 is broken down into the following topics.
  
 </details>
 
-Note: The 2017 and 2024 syllabus is mostly the same so the content created would be applicable for everyone.
+<br>
+
+
+Note: The 2017 and 2024 syllabus is mostly the same so most content created would be applicable for everyone.
 
 Key differences lie in the arrangement of topics between Year 11 and 12. 
 In the Year 11 Mathematics Extension 1 2024 Syllabus, 
