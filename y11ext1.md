@@ -1,4 +1,3 @@
-
 ---
 title: Year 11 Mathematics Extension 1
 ---
