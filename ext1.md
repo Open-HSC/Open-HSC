@@ -40,9 +40,9 @@ Welcome! Maths Extension 1 is broken down into the following topics. Click the a
   - <a href="pdfs/ext1/sample_prop.pdf">Sample Proportions and Normal Approximations </a>  <br>
 </details>
 
-Note: The 2017 and 2024 syllabus is mostly the same so the content created would be applicable for everyone.
+Note: The 2017 and 2024 syllabus is mostly the same, so most content created would be applicable for everyone.
 
-Key differences lie in the arrangement of topics between Year 11 and 12. In teh 2024 Syllabus, Inverse Trigonometry content is moved to Year 12, and regular Trigonetry is moved to Year 11.
+Key differences lie in the arrangement of topics between Year 11 and 12. In the 2024 Syllabus, Inverse Trigonometry content is moved to Year 12, and regular Trigonometry is moved to Year 11.
 As such, problems specific to the 2017 syllabus will be completed at a later stage if requested. 
 
 While the worksheets were created based on individual Syllabus Topics, I have fitted some pairs of topics into one worksheet due to similar or highly related content.
