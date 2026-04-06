@@ -7,9 +7,13 @@ title: Home
 Welcome! This site contains free problem sets (solutions and explainers coming soon) for
 
 ## Subjects
-- [Mathematics Extension 1](https://open-hsc.github.io/Open-HSC/ext1)
-- [Mathematics Extension 2](https://open-hsc.github.io/Open-HSC/ext2)
+* **Year 11**
+    * [Mathematics Extension 1](https://open-hsc.github.io/Open-HSC/y11ext1)
+* **Year 12**
+    * [Mathematics Extension 1](https://open-hsc.github.io/Open-HSC/ext1)
+    * [Mathematics Extension 2](https://open-hsc.github.io/Open-HSC/ext2)
 - More subjects coming soon!
+
 
 If you found the content on this website useful, feel free to [donate/buy me a coffee](https://buymeacoffee.com/jishnuttutk).
 
