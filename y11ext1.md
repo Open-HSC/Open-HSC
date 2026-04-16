@@ -8,7 +8,8 @@ Welcome! Maths Extension 1 for Year 11 is broken down into the following topics.
 </details>
 
 <details> 
-  <summary>Polynomials (Coming Soon)</summary>
+  <summary>Polynomials </summary>
+  - <a href="pdfs/y11ext1/factor_remainder_theorem.pdf">Introducing Polynomials and the Factor and Remainder Theorems </a>  <br>
 
 
 </details>
@@ -17,6 +18,7 @@ Welcome! Maths Extension 1 for Year 11 is broken down into the following topics.
   <summary>Further Trigonometry </summary>
   - <a href="pdfs/y11ext1/3D Trig.pdf">3D Trigonometry </a>  <br>
   - <a href="pdfs/y11ext1/Trigonometric Identities.pdf">Trigonometric Identities </a>  <br>
+  - <a href="pdfs/y11ext1/trig_equations.pdf">Trigonometric Equations </a>  <br>
   
 </details>
 
