@@ -10,7 +10,7 @@ Welcome! Maths Extension 1 for Year 11 is broken down into the following topics.
 <details> 
   <summary>Polynomials </summary>
   - <a href="pdfs/y11ext1/factor_remainder_theorem.pdf">Introducing Polynomials and the Factor and Remainder Theorems </a>  <br>
-
+  - <a href="pdfs/y11ext1/sum_products_roots.pdf"> Sums and products of zeroes of polynomials </a>  <br>
 
 </details>
 
