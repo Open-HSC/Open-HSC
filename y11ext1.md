@@ -23,8 +23,9 @@ Welcome! Maths Extension 1 for Year 11 is broken down into the following topics.
 </details>
 
 <details> 
-  <summary>Permutations and Combinations (Coming Soon)</summary>
+  <summary>Permutations and Combinations </summary>
   - <a href="pdfs/y11ext1/perms.pdf">Permutations </a>  <br>
+  - <a href="pdfs/y11ext1/combs.pdf">Combinations </a>  <br>
 </details>
 
 <details> 
