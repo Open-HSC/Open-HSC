@@ -15,7 +15,7 @@ Welcome! This site contains free problem sets (solutions and explainers coming s
 - More subjects coming soon!
 
 
-If you found the content on this website useful, feel free to [donate](https://buymeacoffee.com/jishnuttutk).
+If you found the content on this website useful, feel free to [donate](https://buymeacoffee.com/jishnuttutk) for more improvements to the website and content.
 
 
 ## Tutoring
