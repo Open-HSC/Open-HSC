@@ -29,8 +29,9 @@ Welcome! Maths Extension 1 for Year 11 is broken down into the following topics.
 </details>
 
 <details> 
-  <summary>The Binomial Theorem (Coming Soon)</summary>
- 
+  <summary>The Binomial Theorem </summary>
+  - <a href="pdfs/y11ext1/binomial_theorem.pdf"> Binomial Theorem: Terms and Coefficients </a>  <br>
+  - <a href="pdfs/y11ext1/binomial_proofs_identities.pdf">Binomial Theorem related Proofs </a>  <br> 
 </details>
 
 <br>
@@ -41,6 +42,7 @@ Note: The 2017 and 2024 syllabus is mostly the same so most content created woul
 Key differences lie in the arrangement of topics between Year 11 and 12. 
 In the Year 11 Mathematics Extension 1 2024 Syllabus, 
  - t-formula is removed, and moved to Mathematics Extension 2
+ - Differentiation is not assumed knowledge throughout the syllabus. No calculus is tested in Year 11 Extension 1 Mathematics.
  - Inverse Trigonometry content is moved to Year 12, and regular Trigonometry is moved to Year 11.
 <br>
 As such, problems specific to the 2017 syllabus will be completed at a later stage if requested. 
