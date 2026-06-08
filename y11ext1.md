@@ -38,7 +38,7 @@ Welcome! Maths Extension 1 for Year 11 is broken down into the following topics.
   <summary> Harder Exam Compilations </summary>
   - <a href="pdfs/y11ext1/Harder Trigonometry Exam Questions 1.pdf"> Harder Trigonometry Exam Questions 1 </a>  <br>
   - <a href="pdfs/y11ext1/Harder Trigonometry Exam Questions 2.pdf"> Harder Trigonometry Exam Questions 2 </a>  <br>
-
+  - <a href="pdfs/y11ext1/Harder Trig Compilation 3.pdf"> Harder Trigonometry Exam Questions 2 </a>  <br>
 </details>
 <br>
 
