@@ -4,7 +4,8 @@ title: Year 11 Mathematics Extension 1
 Welcome! Maths Extension 1 for Year 11 is broken down into the following topics. Click the arrows to access problem sets in each topic.
 
 <details> 
-  <summary>Further work with functions (Coming Soon)</summary>
+  <summary>Further work with functions </summary>
+  - <a href="pdfs/y11ext1/graphical_relationships_inv_functions.pdf">Graphical relationships and Inverse Functions </a>  <br>
 </details>
 
 <details> 
