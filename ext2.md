@@ -16,30 +16,42 @@ Welcome! Maths Extension 2 is broken down into the following topics. Click the a
 <details> 
   <summary>Vectors</summary>
   - <a href="pdfs/ext2/vectors/vectors-lines.pdf">Vector Equations of Lines and Curves</a> <br>
+  - <a href="pdfs/ext2/Vector equations of lines and curves - Solutions.pdf">Vector Equations of Lines and Curves - Solutions</a> <br>
   - <a href="pdfs/ext2/vectors/vectors-geometry2.pdf">Vectors and Geometry</a> <br>
+  - <a href="pdfs/ext2/Vectors and geometry - Solutions.pdf">Vectors and Geometry - Solutions</a> <br>
 </details>
 
 <details> 
   <summary>Complex Numbers</summary>
   - <a href="pdfs/ext2/complex/complex-arithmetic.pdf">Arithmetic of Complex Numbers and Solving Equations with Complex Numbers </a> <br>
+  - <a href="pdfs/ext2/Arithmetic of Complex Numbers - Solutions.pdf">Arithmetic of Complex Numbers and Solving Equations with Complex Numbers - Solutions </a> <br>
   - <a href="pdfs/ext2/complex/geometric-complex.pdf">Geometric Representation of Complex Numbers</a> <br>
+  - <a href="pdfs/ext2/Geometric representation of complex numbers - Solutions.pdf">Geometric Representation of Complex Numbers - Solutions</a> <br>
   - <a href="pdfs/ext2/complex/powers-roots-complex.pdf">Powers and Roots of Complex Numbers</a> <br>
+  - <a href="pdfs/ext2/Powers and roots of complex numbers - Solutions.pdf">Powers and Roots of Complex Numbers - Solutions</a> <br>
   - <a href="pdfs/ext2/complex/complex-lines-curves-regions.pdf">Describing Lines, Curves and Regions</a> <br>
+  - <a href="pdfs/ext2/complex/Describing lines, curves and regions - Solutions.pdf">Describing Lines, Curves and Regions - Solutions</a> <br>
 </details>
 
 <details> 
   <summary>Calculus (Integration)</summary>
   - <a href="pdfs/ext2/int/int-trig-usub.pdf">Harder U-substitution and Trigonometric Integration</a> <br>
-  - <a href="pdfs/ext2/int/int-part-frac.pdf">Harder Partial Fraction Integration</a> <br>
+  - <a href="pdfs/ext2/Substitution and Trigonometric Integrals - Solutions.pdf">Harder U-substitution and Trigonometric Integration - Solutions</a> <br>
+  - <a href="pdfs/ext2/int/int-part-frac.pdf">Partial Fraction Integration</a> <br>
+  - <a href="pdfs/ext2/Integration with Partial Fractions - Solutions.pdf">Partial Fraction Integration - Solutions</a> <br>
   - <a href="pdfs/ext2/int/int-by-parts.pdf">Integration by Parts and Recurrence Relations</a> <br>
+  - <a href="pdfs/ext2/Integration by Parts and Recurrence Relations - Solutions.pdf">Integration by Parts and Recurrence Relations - Solutions</a> <br>
 </details>
 
 <details> 
   <summary>Mechanics</summary>
   - <a href="pdfs/ext2/mech/forces-no-resistance.pdf">Forces and further motion in a straight line and Modelling Motion without Resistance</a> <br> 
   - <a href="pdfs/ext2/mech/shm.pdf">Simple Harmonic Motion</a> <br> 
+  - <a href="pdfs/ext2/Simple Harmonic Motion - Solutions.pdf">Simple Harmonic Motion - Solutions</a> <br> 
   - <a href="pdfs/ext2/mech/hor-resisted-motion.pdf">Rectilinear Resisted Motion (Resisted Motion without Gravity)</a> <br> 
+  - <a href="pdfs/ext2/Resisted motion in a straight line - Solutions.pdf">Rectilinear Resisted Motion (Resisted Motion without Gravity) - Solutions</a> <br> 
   - <a href="pdfs/ext2/mech/vert-resisted-motion.pdf">Vertical and Projectile Resisted Motion</a> <br> 
+  - <a href="pdfs/ext2/Vertical and Projectile Resisted Motion - Solutions.pdf">Vertical and Projectile Resisted Motion - Solutions</a> <br> 
 </details>
 
 Note: The 2017 and 2024 syllabus is mostly the same so the content created would be applicable for everyone.
