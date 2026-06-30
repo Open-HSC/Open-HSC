@@ -30,7 +30,7 @@ Welcome! Maths Extension 2 is broken down into the following topics. Click the a
   - <a href="pdfs/ext2/complex/powers-roots-complex.pdf">Powers and Roots of Complex Numbers</a> <br>
   - <a href="pdfs/ext2/Powers and roots of complex numbers - Solutions.pdf">Powers and Roots of Complex Numbers - Solutions</a> <br>
   - <a href="pdfs/ext2/complex/complex-lines-curves-regions.pdf">Describing Lines, Curves and Regions</a> <br>
-  - <a href="pdfs/ext2/complex/Describing lines, curves and regions - Solutions.pdf">Describing Lines, Curves and Regions - Solutions</a> <br>
+  - <a href="pdfs/ext2/complex/Describing lines curves and regions - Solutions.pdf">Describing Lines, Curves and Regions - Solutions</a> <br>
 </details>
 
 <details> 
