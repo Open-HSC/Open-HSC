@@ -46,6 +46,7 @@ Welcome! Maths Extension 2 is broken down into the following topics. Click the a
 <details> 
   <summary>Mechanics</summary>
   - <a href="pdfs/ext2/mech/forces-no-resistance.pdf">Forces and further motion in a straight line and Modelling Motion without Resistance</a> <br> 
+  - <a href="pdfs/ext2/Forces and Motion Without Resistance - Solutions.pdf">Forces and further motion in a straight line and Modelling Motion without Resistance - Solutions</a> <br> 
   - <a href="pdfs/ext2/mech/shm.pdf">Simple Harmonic Motion</a> <br> 
   - <a href="pdfs/ext2/Simple Harmonic Motion - Solutions.pdf">Simple Harmonic Motion - Solutions</a> <br> 
   - <a href="pdfs/ext2/mech/hor-resisted-motion.pdf">Rectilinear Resisted Motion (Resisted Motion without Gravity)</a> <br> 
